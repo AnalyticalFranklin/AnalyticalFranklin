@@ -36,7 +36,7 @@
 
 <h3 align="left">Where to find me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/david-adarkwah-304127125" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/franklin-adjei-437367128/" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto: jfadjei@gmail.com" target="blank"><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   
