@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Adark-Amal/Adark-Amal/blob/main/profile.png" alt="Curious Data Analyst" width='100%' height='400'/> 
+<p align="center"><img src="https://github.com/AnalyticalFranklin/AnalyticalFranklin/blob/main/profile.png" alt="Curious Data Analyst" width='100%' height='400'/> 
 
 <br>
 <br>
