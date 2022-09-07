@@ -4,14 +4,14 @@
 <br>
 
 <h3 align="justify">Hi 👋, you're welcome to my page.</h3>
-<p align="justify">My name is Franklin. I'm a Data analyst from Accra, Ghana.</p>
+<p align="justify">My name is Franklin. I'm a Data Analyst from Accra, Ghana.</p>
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnalyticalFranklin&label=Profile%20views&color=0e75b6&style=flat" alt="AnalyticalFranklin" /> </p>
 
 <br>
 
-- 🔭 I’m currently working on put something here.
+- 🔭 I’m currently working on Power BI Visualization.
 - 👯 I’m totally open to collaborate on **Robotic Program Automation**
 - 👨‍💻 All of my projects are available at [AnalyticFranklin](https://github.com/AnalyticFranklin)
 - 💬 I am willing to help with **Excel VBA, Python, SQL, Data Analytics**
