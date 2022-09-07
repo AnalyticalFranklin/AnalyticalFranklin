@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on put something here.
 - 👯 I’m totally open to collaborate on **Robotic Program Automation**
-- 👨‍💻 All of my projects are available at [Adark Amal](https://github.com/AnalyticFranklin)
+- 👨‍💻 All of my projects are available at [AnalyticFranklin](https://github.com/AnalyticFranklin)
 - 💬 I am willing to help with **Excel VBA, Python, SQL, Data Analytics**
 - 📫 You can reach me on my gmail account below
 - ⚡ I enjoy **cycling and watching football. I am a die hard Liverpool fan**
